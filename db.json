@@ -1,0 +1,171 @@
+{
+  "publications": [
+    {
+      "id": "1",
+      "titre": "Les bases de l'intelligence artificielle",
+      "description": "Introduction aux concepts fondamentaux de l'IA.",
+      "auteur": "José C. Tobías",
+      "date": "2025/07/02",
+      "contenu": "L'intelligence artificielle (IA) repose sur des algorithmes capables d'apprendre et de prendre des décisions. Ce blog explore les bases du machine learning, du deep learning et des réseaux neuronaux.",
+      "img": "./assets/img/img2.jpg",
+      "alt": "description"
+    },
+    {
+      "id": "2",
+      "titre": "Développement web moderne avec Next.js",
+      "description": "Pourquoi Next.js est devenu un standard pour le web.",
+      "auteur": "José C. Tobías",
+      "date": "2025/07/02",
+      "contenu": "Next.js est un framework puissant basé sur React qui facilite le rendu côté serveur et l'optimisation des performances. Découvrez ses avantages et comment l'intégrer dans vos projets.",
+      "img": "./assets/img/img3.jpg",
+      "alt": "description"
+    },
+    {
+      "id": "3",
+      "titre": "Sécurité des applications web ",
+      "description": "Protéger vos applications web contre les cyberattaques.",
+      "auteur": "José C. Tobías",
+      "date": "2025/07/02",
+      "contenu": "Avec l'augmentation des menaces en ligne, il est essentiel d'adopter des bonnes pratiques en matière de sécurité : gestion des JWT, protection contre les injections SQL, et sécurisation des API.",
+      "img": "./assets/img/img4.jpg",
+      "alt": "description"
+    },
+    {
+      "id": "4",
+      "titre": "Automatisation des tests",
+      "description": "L'importance des tests automatisés pour garantir la qualité du code.",
+      "auteur": "José C. Tobías",
+      "date": "2025/07/02",
+      "contenu": "Les tests automatisés permettent d'éviter les régressions et d'améliorer la stabilité du code. Ce blog explique les différences entre tests unitaires, tests d'intégration et tests fonctionnels.",
+      "img": "",
+      "alt": "description"
+    },
+    {
+      "id": "5",
+      "titre": "Les bases du cloud computing",
+      "description": "Pourquoi et comment migrer vers le cloud.",
+      "auteur": "José C. Tobías",
+      "date": "2025/07/02",
+      "contenu": "Le cloud computing offre flexibilité et évolutivité. Cet article explore les différences entre IaaS, PaaS et SaaS et comment choisir la meilleure solution pour votre entreprise.",
+      "img": "",
+      "alt": "description"
+    },
+    {
+      "id": "6",
+      "titre": "Introduction à DevOps",
+      "description": "DevOps améliore le cycle de vie du développement logiciel.",
+      "auteur": "José C. Tobías",
+      "date": "2025/07/02",
+      "contenu": "DevOps combine développement et opérations pour accélérer la mise en production et améliorer la collaboration entre équipes. Découvrez les outils et méthodologies clés.",
+      "img": "",
+      "alt": "description"
+    },
+    {
+      "id": "7",
+      "titre": "Les bases du développement mobile avec Flutter",
+      "description": "Créer des applications mobiles performantes avec Flutter.",
+      "auteur": "José C. Tobías",
+      "date": "2025/07/02",
+      "contenu": "Flutter est un framework open-source permettant de développer des applications mobiles multiplateformes. Découvrez son fonctionnement et ses avantages par rapport à React Native.",
+      "img": "",
+      "alt": "description"
+    },
+    {
+      "id": "58f0",
+      "titre": "a",
+      "description": "a",
+      "auteur": "a",
+      "date": "2025-02-28"
+    },
+    {
+      "id": "93da",
+      "titre": "Un nouvelle vlog",
+      "description": "Litllte description",
+      "auteur": "DASDADALOREM",
+      "date": "2025-02-28"
+    },
+    {
+      "id": "8a95",
+      "titre": "Un autre",
+      "description": "aas",
+      "contenu": "a",
+      "auteur": "a",
+      "date": "2025-02-28"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "postId": "1",
+      "auteur": "USER1",
+      "contenu": "Comentario de ejemplo",
+      "date": "2024-03-21"
+    },
+    {
+      "id": "2",
+      "postId": "1",
+      "auteur": "USER2",
+      "contenu": "Segundo comentario de ejemplo",
+      "date": "2024-03-22"
+    },
+    {
+      "id": "3",
+      "postId": "2",
+      "auteur": "USER3",
+      "contenu": "Tercer comentario de ejemplo",
+      "date": "2024-03-23"
+    },
+    {
+      "id": "4",
+      "postId": "3",
+      "auteur": "USER4",
+      "contenu": "Cuarto comentario de ejemplo",
+      "date": "2024-03-24"
+    },
+    {
+      "id": "5",
+      "postId": "4",
+      "auteur": "USER5",
+      "contenu": "Quinto comentario de ejemplo",
+      "date": "2024-03-25"
+    },
+    {
+      "id": "6",
+      "postId": "5",
+      "auteur": "USER6",
+      "contenu": "Sexto comentario de ejemplo",
+      "date": "2024-03-26"
+    },
+    {
+      "id": "7",
+      "postId": "6",
+      "auteur": "USER7",
+      "contenu": "Septimo comentario de ejemplo",
+      "date": "2024-03-27"
+    },
+    {
+      "id": "8",
+      "postId": "7",
+      "auteur": "USER8",
+      "contenu": "Octavo comentario de ejemplo",
+      "date": "2024-03-28"
+    },
+    {
+      "id": "9",
+      "postId": "58f0",
+      "auteur": "USER9",
+      "contenu": "Noveno comentario de ejemplo",
+      "date": "2024-03-29"
+    },
+    {
+      "id": "10",
+      "postId": "93da",
+      "auteur": "USER10",
+      "contenu": "Decimo comentario de ejemplo",
+      "date": "2024-03-30"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
